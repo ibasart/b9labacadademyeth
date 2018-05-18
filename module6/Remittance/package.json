@@ -1,0 +1,19 @@
+{
+  "name": "remittance",
+  "version": "1.0.0",
+  "description": "Remittance practice module 5",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "ins": "0.0.0"
+  }
+}
